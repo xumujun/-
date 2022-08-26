@@ -25,5 +25,5 @@
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "爱意东升西落，浪漫誓死不渝",
 # 金句英文
-"note_en": "I love you three ehousand times"
+"note_en": "I love you three thousand times"
 }
